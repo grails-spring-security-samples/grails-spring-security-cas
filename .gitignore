@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+.slcache
+.project
+.classpath
+.asscache
+*.iml
+target
